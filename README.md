@@ -1,10 +1,10 @@
 ## Projeto da Unidade 3
 
 ### Grupo:
-#### Gustavo Gorgônio (ggorgon03@gmail.com)
-#### Letícia Pinheiro (leticia.mpinheiro16@gmail.com)
-#### Thayrone Santos (thayronedds@gmail.com)
-#### Wesley Silva (wreuel@gmail.com)
+Gustavo Gorgônio (ggorgon03@gmail.com)
+Letícia Pinheiro (leticia.mpinheiro16@gmail.com)
+Thayrone Santos (thayronedds@gmail.com)
+Wesley Silva (wreuel@gmail.com)
 
 ### Visão geral:
 Este projeto foi realizado para a disciplina de Probabilidade e tem como objetivo a análise exploratória de dados da disciplina de Cálculo e sua visualização, assim como a análise crítica.
