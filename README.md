@@ -20,4 +20,4 @@ Este projeto foi realizado para a disciplina de Probabilidade e tem como objetiv
 8. Todas as células do notebook devem estar executadas.
 
 
-### Vídeo da apresentação do trabalho:
+### Vídeo da apresentação do trabalho: https://youtu.be/-oarOlDoMv4
